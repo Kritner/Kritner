@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on ...
   - https://github.com/usnistgov/ACVP
   - https://blog.kritner.com
+  - Messing about with Orleans in weird ways, I did a podcast on it with Jamie Taylor https://dotnetcore.show/episode-21-orleans-with-russell-hammett/
 - 🌱 I’m currently learning ...
   - .net core
   - twilio
