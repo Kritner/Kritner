@@ -2,6 +2,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kritner)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+-----
+
 - 🔭 I’m currently working on ...
   - https://github.com/usnistgov/ACVP
   - https://blog.kritner.com
