@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kritner)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on ...
   - https://github.com/usnistgov/ACVP
   - https://blog.kritner.com
